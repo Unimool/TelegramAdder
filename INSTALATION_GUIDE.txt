@@ -1,0 +1,34 @@
+﻿INSTALLATION GUIDE FOR USING SCRIPT:::
+
+
+Install Python on windowns : 
+https://www.python.org/downloads/windows/
+
+Install python on ubuntu(linux)/termux:
+
+sudo apt-get update
+sudo apt-get install python3.6
+
+Install python on MacOS:
+
+https://www.python.org/downloads/mac-osx/
+
+-------------------------------------
+
+After Installing python on your system install pyrogram:
+
+
+Press Windows+R to open “Run” box. 
+Type “cmd” and then click “OK” to open a regular Command Prompt. Type “cmd” and then press Ctrl+Shift+Enter to open an administrator Command Prompt
+
+pip3 install -U pyrogram
+pip3 install -U pyrogram tgcrypto
+
+
+Install pyrogram in macos/linux/termux:
+
+pip3 install -U pyrogram
+pip3 install -U pyrogram tgcrypto
+
+
+

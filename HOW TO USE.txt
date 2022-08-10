@@ -1,0 +1,23 @@
+1) Follow INSTALLATION_GUIDE
+
+2) Compile sessions.txt like this:
+
+1 12744034 7643fab2fjr7yu4v5hj3gsus89c6e34he5 +12357465111
+2 .........
+3 .........
+[ How to found code to compile sessions.txt: https://youtu.be/DeFY7tSq1Y0 ]
+
+
+3) Start Login.exe and fill the program requestes with the Telegram verification code
+[After use Login.exe succesfully the program create a sessions file in a sessions folder]
+
+4) Start Export.exe to export member list from public group
+[Formatting Link rule: if the link is t.me/EXEMPLELINK we write in the program only EXEMPLELINK without t.me/ ]
+
+5) Now you can Start Adder.exe and follow the instructions to add members to your own group
+[Is't possible to add members in a channel but you can revocate the permissions in your group to build it like a channel, so that only you can write in it, the rules about link format are the same of part 4]
+
++ ADVICE:
+if you have just created the telegram account wait about 7 days before adding it to sessions.txt to make it work, otherwise it will be easily banned
+
+ 
